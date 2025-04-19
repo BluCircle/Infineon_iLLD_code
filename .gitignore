@@ -1,0 +1,6 @@
+
+# Aurix Developement Studio 관련
+.metadata/
+
+# 빌드 결과물
+**/TriCore Debug (TASKING)/

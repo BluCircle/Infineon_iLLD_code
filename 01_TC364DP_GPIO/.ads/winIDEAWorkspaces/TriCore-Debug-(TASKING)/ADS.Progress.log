@@ -1,0 +1,21 @@
+LOADING	C:\Users\beomjinlee\Documents\MyFolder\aurix_workspace\01_TC364DP_GPIO\TriCore Debug (TASKING)\01_TC364DP_GPIO.elf
+EMULATION	Probe - System; Root
+EMULATION	Initial debug frequency set
+EMULATION	Asserting reset
+EMULATION	Connected to SoC/core(s)
+EMULATION	Finished connecting to SoC
+EMULATION	Releasing reset
+EMULATION	Initialization script (if any) done
+No RAM which needs initialization found
+EMULATION	Final debug frequency set
+EMULATION	WARNING SoC ID mismatch
+SoC	Detected device: TC380 series, rev. AE
+EMULATION	STARTED
+PROGRAMMING 	13861 bytes
+No security license - device program security checks are read-only
+Device will be improperly configured after FLASH operation. Allow policy selected. BMHDID is not 0xB359! Violation detected on address 0xAF400000.
+Device will be improperly configured after FLASH operation. Allow policy selected. Start address not in PFLASH! Violation detected on address 0xAF400004.
+Device will be improperly configured after FLASH operation. Allow policy selected. Issue found in CRCBMHD - CRC value! Violation detected on address 0xAF400008.
+Device will be improperly configured after FLASH operation. Allow policy selected. Issue found in CRCBMHD_N - CRCn value! Violation detected on address 0xAF40000C.
+PROGRAMMING	Infineon TC36x_PFLASH_4MB (2 sectors)
+EMULATION	END - Without cleanup

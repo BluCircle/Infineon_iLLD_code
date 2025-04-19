@@ -1,0 +1,16 @@
+LOADING	C:\Users\beomjinlee\Documents\MyFolder\aurix_workspace\02_TC364DP_CAN\TriCore Debug (TASKING)\02_TC364DP_CAN.elf
+EMULATION	Probe - System; Root
+EMULATION	Initial debug frequency set
+EMULATION	Asserting reset
+EMULATION	Connected to SoC/core(s)
+EMULATION	Finished connecting to SoC
+EMULATION	Releasing reset
+EMULATION	Initialization script (if any) done
+No RAM which needs initialization found
+EMULATION	Final debug frequency set
+EMULATION	SoC ID match OK
+SoC	Detected device: TC360 series, rev. AA
+EMULATION	STARTED
+PROGRAMMING 	20611 bytes
+PROGRAMMING	Infineon TC36x_PFLASH_4MB (3 sectors)
+EMULATION	END - Without cleanup
