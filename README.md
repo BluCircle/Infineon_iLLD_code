@@ -25,3 +25,21 @@ AURIX 기반 MCMCAN FD 중급 실습 강의 – Git부터 CAN FD까지
 - C 언어 기초
 - 임베디드 시스템 경험
 - AURIX 개발 환경 구성 경험이 있다면 더욱 좋습니다
+
+
+### ✅ ADC & PWM 제외 후 정리된 커리큘럼 (개선안)
+
+강의 번호	제목	핵심 내용	시간
+1강	Git & GitHub 기초	Git 기본 명령어 실습, .gitignore 작성	10분
+2강	CAN FD 이론	Classical CAN vs CAN FD, Frame 구조 해설	10분
+3강	GPIO 출력 실습	iLLD로 LED 토글 실습	10분
+4강	UART-PC 통신	ASCLIN 설정, TeraTerm 연동	12분
+5강	MCMCAN FD 기본 송신	CAN FD 초기화, 단일 메시지 송신	12분
+6강	수신 및 필터 구성	수신 FIFO/필터 설정 및 메시지 핸들링	12분
+7강	다중 메시지 통신 예제	여러 ID 송수신 실습, 필터링 응용	10분
+8강	BusOff 시나리오 확인	에러 시나리오 유도 및 복구 실습	10분
+9강	실습 프로젝트	CAN 통신 기반 센서 시뮬레이션 & UART 로깅	15분
+10강	Git으로 소스 버전 관리	Git branch/merge, 실습 리포지토리 정리	10분
+📌 총 시간: 약 1시간 40분 (100분)
+📦 소스 코드, 슬라이드, Git 예제 포함
+
